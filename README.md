@@ -14,4 +14,6 @@ Note that the Whadda by default uses the 5V (VUSB) pin to power the Arduino, thi
 
 
 
+## References
+* https://learn.adafruit.com/fancyled-library-for-circuitpython
 

@@ -9,10 +9,9 @@ Note that the Whadda by default uses the 5V (VUSB) pin to power the Arduino, thi
   
 ## Setup and configuration
 *
-* The follwing Circuitpython libraries are required:
-** neopixel
-
-
+The follwing Circuitpython libraries are required:
+* neopixel
+* adafruit_fancyled
 
 ## References
 * https://learn.adafruit.com/fancyled-library-for-circuitpython

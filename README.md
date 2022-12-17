@@ -5,7 +5,9 @@
 * USB Power supply
 
 ## Soldering
-Note that the Whadda by default uses the 5V (VUSB) pin to power the Arduino, this is not an issue on the Arduino Nano Every but on the Arduino Nano RP2040 Connect this is not working. So make sure the solder bridge on the bottom of the RP2040 Connect is not bridged and create a wire bridge between 5V(VUSB) pin and the VIN pin.
+Note that the Whadda by default uses the 5V (VUSB) pin to power the Arduino, this is not an issue on the Arduino Nano Every but on the Arduino Nano RP2040 Connect this is not working. 
+1. Make sure the solder bridge on the bottom of the RP2040 Connect is **not bridged**
+2. Create a wire bridge between 5V(VUSB) pin and the VIN pin
   
 ## Setup and configuration
 *

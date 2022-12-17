@@ -17,4 +17,5 @@ The follwing Circuitpython libraries are required:
 
 ## References
 * https://learn.adafruit.com/fancyled-library-for-circuitpython
+* https://learn.adafruit.com/multi-tasking-with-circuitpython/no-sleeping
 
